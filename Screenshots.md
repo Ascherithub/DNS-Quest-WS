@@ -15,6 +15,6 @@ Ping avec le nom du serveur du client vers le serveur.
 ![PingAlias](Ressources/PingAlias.png)  
 Ping avec l'alias du nom du serveur du client vers le serveur.  
   
---  
+---  
 ![nslookup](Ressources/nslookup.png)  
 Résultat de la commande `nslookup` du client vers le serveur.  
